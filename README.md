@@ -4,18 +4,6 @@
 [![Trello API](https://img.shields.io/badge/API-Trello-blue?logo=trello)](https://developer.atlassian.com/cloud/trello/rest/)
 
 ---
-
-## Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Project Features](#-project-features)
-- [Environment Setup](#-environment-setup)
-- [Requests Overview](#-requests-overview)
-- [Additional Automation](#-additional-automation)
-- [Files Included](#-files-included-in-repository)
-- [Prerequisites](#-prerequisites)
-
----
 ## About The Project
 
 This project demonstrates how to interact with the Trello API to automate the creation, updating, retrieval, and deletion of various Trello elements like boards, lists, and cards using Postman. The setup leverages Postman environments, automated scripts, and dynamic variables for full-cycle testing and management of Trello entities.
