@@ -180,8 +180,8 @@ This project demonstrates how to interact with the Trello API to automate the cr
 
 ## Files Included in Repository
 
-- `Trello.postman_collection.json`
-- `Trello.postman_environment.json`
+- `Trello APIs.postman_collection.json`
+- `Trello APIs Environment.postman_environment.json`
 - `README.md`
 
 ---
