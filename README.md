@@ -1,4 +1,4 @@
-# Trello API Automation Project
+# Trello API Project
 
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?logo=postman)](https://www.postman.com/)
 [![Trello API](https://img.shields.io/badge/API-Trello-blue?logo=trello)](https://developer.atlassian.com/cloud/trello/rest/)
